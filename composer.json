@@ -1,0 +1,30 @@
+{
+    "name": "jamielsharief/pipeline",
+    "description": "Pipeline",
+    "type": "library",
+    "keywords": ["pipeline","chain of responsibility"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jamiel Sharief",
+            "email": "js@originphp.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pipeline\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Pipeline\\Test\\": "tests/"
+        }
+    },
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.2",
+        "phpstan/phpstan": "^0.12.52"
+    }
+}
