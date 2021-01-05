@@ -1,7 +1,7 @@
 # Pipeline
 
 ![license](https://img.shields.io/badge/license-MIT-brightGreen.svg)
-[![build status](https://travis-ci.org/jamielsharief/pipeline.svg?branch=main)](https://travis-ci.org/jamielsharief/pipeline)
+[![build](https://github.com/jamielsharief/pipeline/workflows/CI/badge.svg)](https://github.com/jamielsharief/pipeline/actions)
 [![coverage status](https://coveralls.io/repos/github/jamielsharief/pipeline/badge.svg?branch=main)](https://coveralls.io/github/jamielsharief/pipeline?branch=main)
 
 My implementation of the Pipeline pattern based upon this [article](https://java-design-patterns.com/patterns/pipeline/).
